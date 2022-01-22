@@ -1,0 +1,2704 @@
+﻿{
+  "traits": [
+    {
+      "description": "Timmy наслаждается чувством свободы от одежды. он может носить одежду, но без неё будет чувствовать себя гораздо счастливее.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Nudist",
+      "name": "нудист",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy входит в раж, причиняя людям боль. ему нравится вид крови и смерти. он гораздо чаще других начинает бытовые драки.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Bloodlust",
+      "name": "кровожадность",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy — исключительно PAWN_gender ? сговорчив и щедр : сговорчива и щедра. он никогда никого не оскорбляет и умеет добрым словом скрасить день окружающим. Более того, он никого не судит по внешности. Также, из-за своей покладистости Timmy будет больше подстраиваться под господствующее мнение.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "грубость",
+        "психопатия"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "грубость",
+          "психопатия"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Kind",
+      "name": "доброта",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy не знает, что такое сопереживание. Страдания других совсем не волнуют его. ему безразлично, если кого-то пустят на мясо, оставят не похороненным, посадят в тюрьму или продадут в рабство, если его лично это не касается. он также не получает удовольствия от общения с другими.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Psychopath",
+      "name": "психопатия",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Несмотря на то, что его учили, что есть человеческое мясо неправильно и ужасно, Timmy однажды его пробует... и ему нравится.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Cannibal",
+      "name": "каннибализм",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy всегда говорит в точности то, что думает, особенно, если это его раздражает. Обычно это влияет на окружающих не в лучшую сторону.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Abrasive",
+      "name": "грубость",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy страдает от собственного ума. он обучается всему гораздо быстрее остальных, но время от времени совершает разные чудачества.",
+      "stats": [
+        "+75% эффективность обучения",
+        "+12% порог нервного срыва"
+      ],
+      "conflicts": [
+        "железныенервы",
+        "стрессоустойчивость",
+        "нервозность",
+        "эмоциональнаянестабильность",
+        "медленнаяобучаемость"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "железныенервы",
+          "стрессоустойчивость",
+          "нервозность",
+          "эмоциональнаянестабильность",
+          "медленнаяобучаемость"
+        ],
+        "stats": [
+          "+75% эффективность обучения",
+          "+12% порог нервного срыва"
+        ]
+      },
+      "defName": "TooSmart",
+      "name": "гореотума",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy любит ближний бой, лицом к лицу. его точность в рукопашной значительно выше, чем у других. он терпеть не может пользоваться оружием дальнего боя.",
+      "stats": [
+        "Стрелковый азарт inspiration disabled.",
+        "+4 Ближний бой",
+        "-4 Дальний бой",
+        "+4.0 шанс удара врукопашную"
+      ],
+      "conflicts": [
+        "аккуратныйстрелок",
+        "беспечныйстрелок",
+        "хлюпик"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "аккуратныйстрелок",
+          "беспечныйстрелок",
+          "хлюпик"
+        ],
+        "stats": [
+          "Стрелковый азарт inspiration disabled.",
+          "+4 Ближний бой",
+          "-4 Дальний бой",
+          "+4.0 шанс удара врукопашную"
+        ]
+      },
+      "defName": "Brawler",
+      "name": "драчливость",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Для Timmy боль — это что-то возбуждающее. он не знает почему, просто его голова работает по-другому.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "хлюпик"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "хлюпик"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Masochist",
+      "name": "мазохизм",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy любит бодрствовать ночью, а спать днём.\n\nБудучи на ногах ночью (с 23 до 6 ч), Timmy получает подъём настроения, а если он не спит днём (с 11 до 18 ч), его настроение портится.\n\nНахождение в темноте не меняет настроения.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "NightOwl",
+      "name": "сова",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy требует для себя поистине впечатляющую спальню. У него портится настроение, если он не получает то, что хочет.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "аскетизм",
+        "завистливость"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "аскетизм",
+          "завистливость"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Greedy",
+      "name": "снобизм",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "К тем, чья комната лучше, чем его, Timmy испытывает сильную зависть, отражающуюся на его настроении.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "аскетизм",
+        "снобизм"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "аскетизм",
+          "снобизм"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Jealous",
+      "name": "завистливость",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy PAWN_gender ? отказался : отказалась от комфорта и наслаждений, выбрав жить в скромности и простоте. У него портится настроение, если его спальня слишком роскошна. Timmy также не любит изысканные блюда, предпочитая им простую, или даже сырую пищу. Кроме того, он никогда не судит людей по внешнему виду.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "снобизм",
+        "завистливость",
+        "обжора"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "снобизм",
+          "завистливость",
+          "обжора"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Ascetic",
+      "name": "аскетизм",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy испытывает влечение к людям своего пола.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Gay",
+      "name": "гомосексуальность",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy испытывает влечение к людям обоих полов.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Bisexual",
+      "name": "бисексуальность",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy не испытывает влечение к кому-либо.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Asexual",
+      "name": "асексуальность",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy имеет резкий гнусавый голос и общается, рявкая какие-то обрывистые фразы. Неудивительно, что он не нравится другим.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "AnnoyingVoice",
+      "name": "противныйголос",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy тяжело дышит, при этом постоянно потея. Многие люди считают это жутковатым.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "CreepyBreathing",
+      "name": "жутковатоедыхание",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy обожает огонь и никогда не тушит пожары. Иногда, чтобы снять напряжение, он начинает поджигать всё, до чего дотянется. Чем хуже его настроение, тем чаще он будет это делать.",
+      "stats": [
+        "Only mental break \"FireStartingSpree\" allowed."
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "Only mental break \"FireStartingSpree\" allowed."
+        ]
+      },
+      "defName": "Pyromaniac",
+      "name": "пиромания",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy имеет слабый характер и низкий болевой порог. Даже лёгкая боль способна вывести его из строя.",
+      "stats": [
+        "-60% порог переносимости боли"
+      ],
+      "conflicts": [
+        "драчливость",
+        "мазохизм"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "драчливость",
+          "мазохизм"
+        ],
+        "stats": [
+          "-60% порог переносимости боли"
+        ]
+      },
+      "defName": "Wimp",
+      "name": "хлюпик",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy обладает выдающимися способностями к управлению своим телом. От опасностей он уворачивается с необычайным изяществом.",
+      "stats": [
+        "+15.0 шанс уворота в рукопашной",
+        "x10% шанс активации ловушек"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+15.0 шанс уворота в рукопашной",
+          "x10% шанс активации ловушек"
+        ]
+      },
+      "defName": "Nimble",
+      "name": "ловкость",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy имеет талант к обучению. он схватывает новую информацию буквально на лету.",
+      "stats": [
+        "+75% эффективность обучения"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+75% эффективность обучения"
+        ]
+      },
+      "defName": "FastLearner",
+      "name": "быстраяобучаемость",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy медленно соображает, новые вещи даются ему гораздо тяжелее остальных.",
+      "stats": [
+        "-75% эффективность обучения"
+      ],
+      "conflicts": [
+        "гореотума"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "гореотума"
+        ],
+        "stats": [
+          "-75% эффективность обучения"
+        ]
+      },
+      "defName": "SlowLearner",
+      "name": "медленнаяобучаемость",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy предпочитает находиться под землёй и не нуждается в том, чтобы выходить на улицу и видеть солнечный свет. он никогда не чувствует себя взаперти и не страдает от клаустрофобии и темноты, вне зависимости от того, как долго он находится в помещении.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Undergrounder",
+      "name": "подземник",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy чувствует себя PAWN_gender ? ограниченным : ограниченной в своём немощном человеческом теле. он мечтает улучшить его возможности при помощи искусственных частей.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "биоконсерватор"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "биоконсерватор"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Transhumanist",
+      "name": "трансгуманист",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy верит, что человеческое тело ограничено не просто так. Искусственные части ему кажутся неэтичными, а сама мысль об их вживлении — омерзительной.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "трансгуманист"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "трансгуманист"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "BodyPurist",
+      "name": "биоконсерватор",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy не любит мужчин и не доверяет им.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "DislikesMen",
+      "name": "мужененависть",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy не любит женщин и не доверяет им.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "DislikesWomen",
+      "name": "женоненависть",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy хорошо запоминает детали и в два раза медленнее остальных теряет свои навыки, даже те которые давно не применяет.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "GreatMemory",
+      "name": "хорошаяпамять",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy обладает толстой кожей, крепкими мышцами и прочными костями. По сравнению с обычным человеком он получает гораздо меньше урона от тех же атак. его очень трудно убить.",
+      "stats": [
+        "x50% множитель получаемого урона"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "x50% множитель получаемого урона"
+        ]
+      },
+      "defName": "Tough",
+      "name": "живучесть",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy постоянно чувствует отчуждённость и человеческое непонимание в любом начинании, и это его расстраивает. Однако в среднем после каждого второго нервного срыва к нему приходит творческое вдохновение.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "TorturedArtist",
+      "name": "непонятыйтворец",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy обожает вкусно поесть, еда стала чуть ли не смыслом его жизни. Мало того, что он имеет непомерный аппетит, он ещё любит предаваться безудержному чревоугодию вне зависимости от чувства голода.",
+      "stats": [
+        "Only mental break \"Binging_Food\" allowed.",
+        "+4 Кулинария"
+      ],
+      "conflicts": [
+        "аскетизм"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "аскетизм"
+        ],
+        "stats": [
+          "Only mental break \"Binging_Food\" allowed.",
+          "+4 Кулинария"
+        ]
+      },
+      "defName": "Gourmand",
+      "name": "обжора",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy не нуждается в большом количестве времени для сна. Независимо от того, спит он на кровати или на земле, Timmy набирается сил в полтора раза быстрее, чем остальные.",
+      "stats": [
+        "+50% эффективность сна"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+50% эффективность сна"
+        ]
+      },
+      "defName": "QuickSleeper",
+      "name": "эффективныйсон",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy всегда плетётся позади группы, когда и куда бы она не шла.",
+      "stats": [
+        "Прилив сил inspiration disabled.",
+        "-0.20 скорость передвижения"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "Прилив сил inspiration disabled.",
+          "-0.20 скорость передвижения"
+        ]
+      },
+      "defName": "SpeedOffset",
+      "name": "медлительность",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy любит ходить пешком. он ходит быстрее, чем большинство людей.",
+      "stats": [
+        "+0.20 скорость передвижения"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+0.20 скорость передвижения"
+        ]
+      },
+      "defName": "SpeedOffset",
+      "name": "скороход",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy всегда спешит. Да так сильно, что остальные угнаться не могут.",
+      "stats": [
+        "+0.40 скорость передвижения"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+0.40 скорость передвижения"
+        ]
+      },
+      "defName": "SpeedOffset",
+      "name": "бегун",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy сильно тяготеет к химическим источникам удовольствия. Употребление лёгких наркотиков поднимает ему настроение, а воздержание — наоборот, повергает в нарастающее уныние и приводит к наркотическим срывам. он не обращает внимания на запреты лёгких наркотиков и потребляет их больше других.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "DrugDesire",
+      "name": "страстьк«химии»",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy любит выпить и имеет слабость к другим химическим источникам удовольствия. Употребление лёгких наркотиков поднимает ему настроение, а воздержание — наоборот, повергает в нарастающее уныние и приводит к наркотическим срывам. он не обращает внимания на запреты лёгких наркотиков и потребляет их больше других.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "DrugDesire",
+      "name": "интереск«химии»",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy не приемлет идею получения удовольствия от «химии» и держится подальше от алкоголя и наркотиков.",
+      "stats": [
+        "Тяга к наркотикам mental state disabled.",
+        "Тяга к лёгким наркотикам mental state disabled."
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "Тяга к наркотикам mental state disabled.",
+          "Тяга к лёгким наркотикам mental state disabled."
+        ]
+      },
+      "defName": "DrugDesire",
+      "name": "трезвенник",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy всегда в приподнятом настроении, что бы ни происходило вокруг.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "NaturalMood",
+      "name": "сангвиник",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy оптимист от природы. ему сложно испортить настроение.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "NaturalMood",
+      "name": "оптимист",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy смотрит на многие жизненные ситуации только с плохой стороны.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "NaturalMood",
+      "name": "пессимист",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy всегда в плохом настроении. И оно редко улучшается, даже когда всё хорошо.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "NaturalMood",
+      "name": "меланхолик",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
+    },
+    {
+      "description": "Timmy обладает волей, крепкой, как железный щит. он не теряет самообладания даже в тех ситуациях, когда другие сдаются и опускают руки.",
+      "stats": [
+        "-18% порог нервного срыва"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-18% порог нервного срыва"
+        ]
+      },
+      "defName": "Nerves",
+      "name": "железныенервы",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy обладает психической устойчивостью к стрессам, которые большинство не выдерживает.",
+      "stats": [
+        "-9% порог нервного срыва"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-9% порог нервного срыва"
+        ]
+      },
+      "defName": "Nerves",
+      "name": "стрессоустойчивость",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy может сорваться при сильном эмоциональном напряжении.",
+      "stats": [
+        "+8% порог нервного срыва"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+8% порог нервного срыва"
+        ]
+      },
+      "defName": "Nerves",
+      "name": "нервозность",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy всегда на взводе. Малейшее эмоциональное напряжение может закончиться нервным срывом.",
+      "stats": [
+        "+15% порог нервного срыва"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+15% порог нервного срыва"
+        ]
+      },
+      "defName": "Nerves",
+      "name": "эмоциональнаянестабильность",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
+    },
+    {
+      "description": "Timmy любит всё делать правильно, отчего работает больше и усерднее остальных. Такое напряжение иногда приводит к нервными срывам.",
+      "stats": [
+        "+20% общая скорость работы",
+        "+8% порог нервного срыва"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+20% общая скорость работы",
+          "+8% порог нервного срыва"
+        ]
+      },
+      "defName": "Neurotic",
+      "name": "лёгкаяневрастения",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy постоянно переживает обо всём, чем занимается. он заставляет себя работать с невероятным усердием, что плохо сказывается на его нервах.",
+      "stats": [
+        "+40% общая скорость работы",
+        "+14% порог нервного срыва"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+40% общая скорость работы",
+          "+14% порог нервного срыва"
+        ]
+      },
+      "defName": "Neurotic",
+      "name": "тяжёлаяневрастения",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy легко концентрируется на работе и выполняет задачи гораздо быстрее обычных людей.",
+      "stats": [
+        "+35% общая скорость работы"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+35% общая скорость работы"
+        ]
+      },
+      "defName": "Industriousness",
+      "name": "усердие",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Обладая природным трудолюбием, Timmy выполняет работу быстрее остальных.",
+      "stats": [
+        "+20% общая скорость работы"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+20% общая скорость работы"
+        ]
+      },
+      "defName": "Industriousness",
+      "name": "трудолюбие",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy иногда ленится.",
+      "stats": [
+        "-20% общая скорость работы"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-20% общая скорость работы"
+        ]
+      },
+      "defName": "Industriousness",
+      "name": "леность",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy любит бездельничать и ненавидит работать. он двигается медленно и редко концентрируется на задаче.",
+      "stats": [
+        "-35% общая скорость работы"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-35% общая скорость работы"
+        ]
+      },
+      "defName": "Industriousness",
+      "name": "праздность",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
+    },
+    {
+      "description": "Разум Timmy отзывчив, словно тонко настроенный музыкальный инструмент. он чрезвычайно PAWN_gender ? чувствителен : чувствительна к психическим воздействиям.",
+      "stats": [
+        "+80% психочувствительность"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+80% психочувствительность"
+        ]
+      },
+      "defName": "PsychicSensitivity",
+      "name": "гиперчувствительность",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Разум Timmy чувствителен к психическим воздействиям.",
+      "stats": [
+        "+40% психочувствительность"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+40% психочувствительность"
+        ]
+      },
+      "defName": "PsychicSensitivity",
+      "name": "восприимчивость",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy — психически устойчивая личность, которую мало что способно потревожить.",
+      "stats": [
+        "-50% психочувствительность"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-50% психочувствительность"
+        ]
+      },
+      "defName": "PsychicSensitivity",
+      "name": "психическаяустойчивость",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Разум Timmy работает на волне, отличной от всех остальных. он не подвергается влиянию психических воздействий.",
+      "stats": [
+        "-100% психочувствительность"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-100% психочувствительность"
+        ]
+      },
+      "defName": "PsychicSensitivity",
+      "name": "психическаяглухота",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
+    },
+    {
+      "description": "Timmy чаще других попадает в цель, но ему нужно время, чтобы как следует прицелиться.",
+      "stats": [
+        "+25% время прицеливания",
+        "+5.0 точность стрельбы"
+      ],
+      "conflicts": [
+        "драчливость"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "драчливость"
+        ],
+        "stats": [
+          "+25% время прицеливания",
+          "+5.0 точность стрельбы"
+        ]
+      },
+      "defName": "ShootingAccuracy",
+      "name": "аккуратныйстрелок",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Пиу-пиу-пиу! Timmy обожает жать на курок. Точность при этом страдает, но его это не заботит, потому что пушки — это здорово!",
+      "stats": [
+        "-50% время прицеливания",
+        "-5.0 точность стрельбы"
+      ],
+      "conflicts": [
+        "драчливость"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "драчливость"
+        ],
+        "stats": [
+          "-50% время прицеливания",
+          "-5.0 точность стрельбы"
+        ]
+      },
+      "defName": "ShootingAccuracy",
+      "name": "беспечныйстрелок",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy обладает исключительной красотой. его лицо имеет несколько экзотичные, но в то же время крайне привлекательные черты, а взгляд буквально очаровывает. Timmy располагает к себе людей ещё до того, как что-нибудь произнесёт.",
+      "stats": [
+        "+2.0 красота"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+2.0 красота"
+        ]
+      },
+      "defName": "Beauty",
+      "name": "невероятнаякрасота",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "У Timmy миловидное личико, вызывающее у людей симпатию.",
+      "stats": [
+        "+1.0 красота"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+1.0 красота"
+        ]
+      },
+      "defName": "Beauty",
+      "name": "красота",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy имеет непривлекательную, отталкивающую внешность.",
+      "stats": [
+        "-1.0 красота"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-1.0 красота"
+        ]
+      },
+      "defName": "Beauty",
+      "name": "уродство",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy обладает поистине безобразной внешностью. его лицо — что-то среднее между рисунком бездарного ребёнка, заспиртованным в банке уродцем и произведением современного искусства. Людям приходится прикладывать усилие, чтобы просто смотреть ему в лицо при разговоре.",
+      "stats": [
+        "-2.0 красота"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-2.0 красота"
+        ]
+      },
+      "defName": "Beauty",
+      "name": "невероятноеуродство",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
+    },
+    {
+      "description": "Timmy от природы обладает стойкой иммунной системой. Скорость, с которой у него вырабатывается иммунитет к различным возбудителям, гораздо выше, чем у остальных. он справится с болезнью, которая обычного человека может просто убить.",
+      "stats": [
+        "+30% скорость выработки иммунитета"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+30% скорость выработки иммунитета"
+        ]
+      },
+      "defName": "Immunity",
+      "name": "сильныйиммунитет",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy имеет слабую иммунную систему. он болеет гораздо чаще остальных. Зачастую у него возникают недуги, от которых не страдает больше никто в поселении.",
+      "stats": [
+        "+4 Медицина"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+4 Медицина"
+        ]
+      },
+      "defName": "Immunity",
+      "name": "слабыйиммунитет",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy не выносит вид человеческого тела. он будет сильнее расстраиваться, нося рваную одежду и особенно расстроится, если будет без одежды вообще или увидит другого человека голым.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "нудист",
+        "похоть",
+        "полиамор",
+        "непредвзятость"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.3",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "нудист",
+          "похоть",
+          "полиамор",
+          "непредвзятость"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Prude",
+      "name": "ханжа",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy имеет трудности со сном из-за своей болезни. он будет раньше просыпаться, меньше спать и хуже высыпаться.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "мертвецкийсон"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.3",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "мертвецкийсон"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Insomniac",
+      "name": "бессонница",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy обладает большим сердцем и с лёгкостью поддаётся сильным эмоциям. он любит помогать другим людям и не выносит насилия и несправедливости. он легче поддаётся негативному влиянию подобных вещей.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "психопатия",
+        "кровожадность",
+        "каннибализм",
+        "бесчувственностькнасилию"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.3",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "психопатия",
+          "кровожадность",
+          "каннибализм",
+          "бесчувственностькнасилию"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "BleedingHeart",
+      "name": "чуткоесердце",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy очень критично относится к любой еде. он всегда ожидает хорошего качества блюд и расстроится, если его требования к еде не будут соблюдаться.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "каннибализм",
+        "аскетизм"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.3",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "каннибализм",
+          "аскетизм"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Gourmet",
+      "name": "гурман",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Для Timmy характеры внезапные и более неприятные скачки настроения, чем для остальных.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.3",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Unstable",
+      "name": "нестабильность",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy обладает невероятной похотью и постоянно разбивает окружающим сердца. он будет приставать ко всему, что движется, вне зависимости от последствий.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "эмоциональнаязависимость",
+        "ханжа",
+        "непредвзятость"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.3",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "эмоциональнаязависимость",
+          "ханжа",
+          "непредвзятость"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Lecher",
+      "name": "похоть",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy очень нуждается в романтическом внимании и не знает счастья без отношений. Разрывы и измены будут особенно травмировать его.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "похоть",
+        "полиамор"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.3",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "похоть",
+          "полиамор"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Codependent",
+      "name": "эмоциональнаязависимость",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy любит быть на свежем воздухе. он получает бонус к настроению, когда находится в открытом пространстве.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "подземник"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.3",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "подземник"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Outdoorsy",
+      "name": "любовькприроде",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy обожает дожди. он получает бонус к настроению, каждый раз когда идёт дождь, особенно находясь под ним.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.3",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Pluviophile",
+      "name": "плювиофилия",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Глаза Timmy очень чувствительны к свету, вследствие мутации или намеренного генетического вмешательства. он очень болезненно переносит яркий свет, а искусственное освещение считает раздражительным. Напротив, он прекрасно чувствует себя в темноте.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.3",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Photosensitive",
+      "name": "светочувствительность",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy обожает вечеринки! Одно его присутствие является поводом для частых вечеринок, потому что всем нравится находиться рядом с Timmy.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.3",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Socialite",
+      "name": "социальность",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy видит столько насилия и смерти в своей жизни, что всё это больше не вызывает у него никаких эмоций.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "чуткоесердце",
+        "психопатия",
+        "кровожадность"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.3",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "чуткоесердце",
+          "психопатия",
+          "кровожадность"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Desensitized",
+      "name": "бесчувственностькнасилию",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy не разбудить даже артиллерийской канонадой. его сон невозможно потревожить, но и разбудить очень тяжело.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "бессонница",
+        "лёгкаяневрастения",
+        "тяжёлаяневрастения"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.3",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "бессонница",
+          "лёгкаяневрастения",
+          "тяжёлаяневрастения"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "HeavySleeper",
+      "name": "мертвецкийсон",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy не видит проблемы в отношениях сразу с несколькими партнёрами. он не расстроится, если его партнёр будет заигрывать с другими персонажами, но в моногамных отношениях счастья испытывать не будет.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "ханжа",
+        "эмоциональнаязависимость"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.3",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "ханжа",
+          "эмоциональнаязависимость"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Polygamous",
+      "name": "полиамор",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Для Timmy важно только то, что у людей внутри, а не снаружи. он не будет судить окружающих по внешнему виду.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "ханжа",
+        "похоть",
+        "мужененависть",
+        "женоненависть",
+        "биоконсерватор",
+        "психопатия"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.3",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "ханжа",
+          "похоть",
+          "мужененависть",
+          "женоненависть",
+          "биоконсерватор",
+          "психопатия"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "OpenMinded",
+      "name": "непредвзятость",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy не очень активный персонаж. его оставляет желать лучшего, но он любит сидеть днями напролёт и работать над чем-то.",
+      "stats": [
+        "-0.15 скорость передвижения"
+      ],
+      "conflicts": [
+        "медлительность",
+        "скороход",
+        "бегун"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.3",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "медлительность",
+          "скороход",
+          "бегун"
+        ],
+        "stats": [
+          "-0.15 скорость передвижения"
+        ]
+      },
+      "defName": "Sedentary",
+      "name": "сидячийобразжизни",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy говорит, говорит, говорит... и говорит. он чаще чем другие растягивает беседы, потому что, похоже, совсем не умеет их заканчивать.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Psychology (unofficial) v1.1-1.3",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Chatty",
+      "name": "разговорчивый",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophobe",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophile",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy is now a natural hunter.",
+      "stats": [
+        "+1 Дальний бой",
+        "+1 Животноводство"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Pawnmorpher",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+1 Дальний бой",
+          "+1 Животноводство"
+        ]
+      },
+      "defName": "NaturalHunter",
+      "name": "naturalhunter",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is intrigued by the idea of becoming something other than human.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "трансгуманист",
+        "биоконсерватор"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Pawnmorpher",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "трансгуманист",
+          "биоконсерватор"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "MutationAffinity",
+      "name": "mutationaffinity",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    }
+  ],
+  "races": [
+    {
+      "data": {
+        "stats": [
+          "+60.00 Масса",
+          "+70% Воспламеняемость",
+          "+1750₡ Рыночная стоимость",
+          "+4.60 Скорость передвижения",
+          "+16.0C Мин. комфортная температура",
+          "+26.0C Макс. комфортная температура",
+          "+75 Количество кожи",
+          "+3 Милость короны"
+        ],
+        "mod": "RimWorld",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Обычный человек, практически не изменённый генной инженерией или эволюционными процессами других планет.",
+      "defName": "Human",
+      "enabled": true,
+      "name": "человек",
+      "price": 2917
+    }
+  ]
+}
