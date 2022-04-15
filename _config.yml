@@ -68,8 +68,7 @@ mods:
   author: true
 
 # Build settings
-remote_theme: sylhare/Type-on-Strap 
-plugins:
+
 
 
 theme: jekyll-theme-cayman
