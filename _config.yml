@@ -72,4 +72,4 @@ remote_theme:
 plugins:
   -
 
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-cayman
